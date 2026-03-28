@@ -43,7 +43,7 @@ weather-analysis/
 │── weatherHistory.csv
 │── README.md
 │── .gitignore
-
+```
 ---
 
 ## 🔍 Key Analysis
@@ -83,14 +83,14 @@ Calculated key statistics:
 - Boxplot → Humidity distribution & outliers
 - Scatter plot → Temperature vs Humidity
 
-➡️ The histogram shows temperature follows a near-normal distribution
+➡️ The histogram shows temperature follows a near-normal distribution <br>
 ➡️ The scatter plot shows inverse relation between temperature and humidity
 ---
 ### Trend Analysis
 - Analyzed temperature trends over time
 - Analyzed humidity trends over time
 
-➡️ Line charts (page 9) show clear seasonal variations in temperature
+➡️ Line charts (page 9) show clear seasonal variations in temperature <br>
 ➡️ Humidity fluctuates throughout the year
 ---
 ### Correlation Analysis
