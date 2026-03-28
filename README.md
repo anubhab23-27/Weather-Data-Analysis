@@ -104,7 +104,7 @@ Calculated key statistics:
 
 - Temperature and Humidity (~ -0.63)
 
-➡️ Heatmap visualization (page 10) highlights relationships clearly
+➡️ Heatmap visualization highlights relationships clearly
 ---
 
 ## 🧠 Key Insights
